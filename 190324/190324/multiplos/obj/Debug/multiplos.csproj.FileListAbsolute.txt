@@ -1,0 +1,14 @@
+C:\Users\aluno_lab4\source\repos\190324\multiplos\bin\Debug\multiplos.exe.config
+C:\Users\aluno_lab4\source\repos\190324\multiplos\bin\Debug\multiplos.exe
+C:\Users\aluno_lab4\source\repos\190324\multiplos\bin\Debug\multiplos.pdb
+C:\Users\aluno_lab4\source\repos\190324\multiplos\obj\Debug\multiplos.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\source\repos\190324\multiplos\obj\Debug\multiplos.exe
+C:\Users\aluno_lab4\source\repos\190324\multiplos\obj\Debug\multiplos.pdb
+C:\Users\aluno_lab4\source\repos\190324\multiplos\obj\Debug\multiplos.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\multiplos\bin\Debug\multiplos.exe.config
+C:\Users\manue\OneDrive\Área de Trabalho\190324\multiplos\bin\Debug\multiplos.exe
+C:\Users\manue\OneDrive\Área de Trabalho\190324\multiplos\bin\Debug\multiplos.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\190324\multiplos\obj\Debug\multiplos.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\multiplos\obj\Debug\multiplos.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\multiplos\obj\Debug\multiplos.exe
+C:\Users\manue\OneDrive\Área de Trabalho\190324\multiplos\obj\Debug\multiplos.pdb

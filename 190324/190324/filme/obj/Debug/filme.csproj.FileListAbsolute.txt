@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Área de Trabalho\190324\filme\bin\Debug\filme.exe.config
+C:\Users\manue\OneDrive\Área de Trabalho\190324\filme\bin\Debug\filme.exe
+C:\Users\manue\OneDrive\Área de Trabalho\190324\filme\bin\Debug\filme.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\190324\filme\obj\Debug\filme.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\filme\obj\Debug\filme.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\filme\obj\Debug\filme.exe
+C:\Users\manue\OneDrive\Área de Trabalho\190324\filme\obj\Debug\filme.pdb

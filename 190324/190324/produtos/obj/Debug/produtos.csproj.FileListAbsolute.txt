@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Área de Trabalho\190324\produtos\obj\Debug\produtos.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\produtos\obj\Debug\produtos.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\produtos\bin\Debug\produtos.exe.config
+C:\Users\manue\OneDrive\Área de Trabalho\190324\produtos\bin\Debug\produtos.exe
+C:\Users\manue\OneDrive\Área de Trabalho\190324\produtos\bin\Debug\produtos.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\190324\produtos\obj\Debug\produtos.exe
+C:\Users\manue\OneDrive\Área de Trabalho\190324\produtos\obj\Debug\produtos.pdb

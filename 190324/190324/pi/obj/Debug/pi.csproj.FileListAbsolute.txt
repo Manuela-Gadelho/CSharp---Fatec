@@ -1,0 +1,7 @@
+C:\Users\aluno_lab4\source\repos\190324\pi\bin\Debug\pi.exe.config
+C:\Users\aluno_lab4\source\repos\190324\pi\bin\Debug\pi.exe
+C:\Users\aluno_lab4\source\repos\190324\pi\bin\Debug\pi.pdb
+C:\Users\aluno_lab4\source\repos\190324\pi\obj\Debug\pi.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\source\repos\190324\pi\obj\Debug\pi.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\source\repos\190324\pi\obj\Debug\pi.exe
+C:\Users\aluno_lab4\source\repos\190324\pi\obj\Debug\pi.pdb

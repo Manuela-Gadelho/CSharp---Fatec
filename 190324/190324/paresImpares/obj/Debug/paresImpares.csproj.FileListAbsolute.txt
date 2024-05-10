@@ -1,0 +1,14 @@
+C:\Users\aluno_lab4\source\repos\190324\paresImpares\bin\Debug\paresImpares.exe.config
+C:\Users\aluno_lab4\source\repos\190324\paresImpares\bin\Debug\paresImpares.exe
+C:\Users\aluno_lab4\source\repos\190324\paresImpares\bin\Debug\paresImpares.pdb
+C:\Users\aluno_lab4\source\repos\190324\paresImpares\obj\Debug\paresImpares.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\source\repos\190324\paresImpares\obj\Debug\paresImpares.exe
+C:\Users\aluno_lab4\source\repos\190324\paresImpares\obj\Debug\paresImpares.pdb
+C:\Users\aluno_lab4\source\repos\190324\paresImpares\obj\Debug\paresImpares.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\paresImpares\bin\Debug\paresImpares.exe.config
+C:\Users\manue\OneDrive\Área de Trabalho\190324\paresImpares\bin\Debug\paresImpares.exe
+C:\Users\manue\OneDrive\Área de Trabalho\190324\paresImpares\bin\Debug\paresImpares.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\190324\paresImpares\obj\Debug\paresImpares.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\paresImpares\obj\Debug\paresImpares.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\paresImpares\obj\Debug\paresImpares.exe
+C:\Users\manue\OneDrive\Área de Trabalho\190324\paresImpares\obj\Debug\paresImpares.pdb

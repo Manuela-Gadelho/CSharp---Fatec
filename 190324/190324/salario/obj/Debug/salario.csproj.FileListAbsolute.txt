@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Área de Trabalho\190324\salario\bin\Debug\salario.exe.config
+C:\Users\manue\OneDrive\Área de Trabalho\190324\salario\bin\Debug\salario.exe
+C:\Users\manue\OneDrive\Área de Trabalho\190324\salario\bin\Debug\salario.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\190324\salario\obj\Debug\salario.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\salario\obj\Debug\salario.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\salario\obj\Debug\salario.exe
+C:\Users\manue\OneDrive\Área de Trabalho\190324\salario\obj\Debug\salario.pdb

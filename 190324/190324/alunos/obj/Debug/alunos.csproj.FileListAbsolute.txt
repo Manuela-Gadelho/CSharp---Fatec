@@ -1,0 +1,13 @@
+C:\Users\aluno_lab4\source\repos\190324\alunos\bin\Debug\alunos.exe.config
+C:\Users\aluno_lab4\source\repos\190324\alunos\bin\Debug\alunos.exe
+C:\Users\aluno_lab4\source\repos\190324\alunos\bin\Debug\alunos.pdb
+C:\Users\aluno_lab4\source\repos\190324\alunos\obj\Debug\alunos.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\source\repos\190324\alunos\obj\Debug\alunos.exe
+C:\Users\aluno_lab4\source\repos\190324\alunos\obj\Debug\alunos.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\190324\alunos\bin\Debug\alunos.exe.config
+C:\Users\manue\OneDrive\Área de Trabalho\190324\alunos\bin\Debug\alunos.exe
+C:\Users\manue\OneDrive\Área de Trabalho\190324\alunos\bin\Debug\alunos.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\190324\alunos\obj\Debug\alunos.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\alunos\obj\Debug\alunos.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\190324\alunos\obj\Debug\alunos.exe
+C:\Users\manue\OneDrive\Área de Trabalho\190324\alunos\obj\Debug\alunos.pdb
