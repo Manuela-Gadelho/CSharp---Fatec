@@ -1,0 +1,14 @@
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\bin\Debug\net8.0\exe2_050324.exe
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\bin\Debug\net8.0\exe2_050324.deps.json
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\bin\Debug\net8.0\exe2_050324.runtimeconfig.json
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\bin\Debug\net8.0\exe2_050324.dll
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\bin\Debug\net8.0\exe2_050324.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\obj\Debug\net8.0\exe2_050324.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\obj\Debug\net8.0\exe2_050324.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\obj\Debug\net8.0\exe2_050324.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\obj\Debug\net8.0\exe2_050324.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\obj\Debug\net8.0\exe2_050324.dll
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\obj\Debug\net8.0\refint\exe2_050324.dll
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\obj\Debug\net8.0\exe2_050324.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\obj\Debug\net8.0\exe2_050324.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Área de Trabalho\exe2_050324\exe2_050324\obj\Debug\net8.0\ref\exe2_050324.dll
