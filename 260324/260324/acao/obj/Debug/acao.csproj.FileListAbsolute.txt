@@ -1,0 +1,7 @@
+C:\Users\aluno_lab4\source\repos\260324\acao\bin\Debug\acao.exe.config
+C:\Users\aluno_lab4\source\repos\260324\acao\bin\Debug\acao.exe
+C:\Users\aluno_lab4\source\repos\260324\acao\bin\Debug\acao.pdb
+C:\Users\aluno_lab4\source\repos\260324\acao\obj\Debug\acao.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\source\repos\260324\acao\obj\Debug\acao.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\source\repos\260324\acao\obj\Debug\acao.exe
+C:\Users\aluno_lab4\source\repos\260324\acao\obj\Debug\acao.pdb

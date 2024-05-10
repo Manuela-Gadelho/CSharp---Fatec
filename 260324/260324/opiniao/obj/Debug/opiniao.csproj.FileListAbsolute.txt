@@ -1,0 +1,14 @@
+C:\Users\aluno_lab4\source\repos\260324\opiniao\bin\Debug\opiniao.exe.config
+C:\Users\aluno_lab4\source\repos\260324\opiniao\bin\Debug\opiniao.exe
+C:\Users\aluno_lab4\source\repos\260324\opiniao\bin\Debug\opiniao.pdb
+C:\Users\aluno_lab4\source\repos\260324\opiniao\obj\Debug\opiniao.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\source\repos\260324\opiniao\obj\Debug\opiniao.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\source\repos\260324\opiniao\obj\Debug\opiniao.exe
+C:\Users\aluno_lab4\source\repos\260324\opiniao\obj\Debug\opiniao.pdb
+C:\Users\aluno_lab2\Documents\260324\opiniao\bin\Debug\opiniao.exe.config
+C:\Users\aluno_lab2\Documents\260324\opiniao\bin\Debug\opiniao.exe
+C:\Users\aluno_lab2\Documents\260324\opiniao\bin\Debug\opiniao.pdb
+C:\Users\aluno_lab2\Documents\260324\opiniao\obj\Debug\opiniao.csproj.AssemblyReference.cache
+C:\Users\aluno_lab2\Documents\260324\opiniao\obj\Debug\opiniao.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab2\Documents\260324\opiniao\obj\Debug\opiniao.exe
+C:\Users\aluno_lab2\Documents\260324\opiniao\obj\Debug\opiniao.pdb

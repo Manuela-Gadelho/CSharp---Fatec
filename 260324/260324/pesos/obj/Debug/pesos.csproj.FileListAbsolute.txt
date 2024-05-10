@@ -1,0 +1,14 @@
+C:\Users\aluno_lab4\source\repos\260324\pesos\bin\Debug\pesos.exe.config
+C:\Users\aluno_lab4\source\repos\260324\pesos\bin\Debug\pesos.exe
+C:\Users\aluno_lab4\source\repos\260324\pesos\bin\Debug\pesos.pdb
+C:\Users\aluno_lab4\source\repos\260324\pesos\obj\Debug\pesos.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\source\repos\260324\pesos\obj\Debug\pesos.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\source\repos\260324\pesos\obj\Debug\pesos.exe
+C:\Users\aluno_lab4\source\repos\260324\pesos\obj\Debug\pesos.pdb
+C:\Users\aluno_lab2\Documents\260324\pesos\bin\Debug\pesos.exe.config
+C:\Users\aluno_lab2\Documents\260324\pesos\bin\Debug\pesos.exe
+C:\Users\aluno_lab2\Documents\260324\pesos\bin\Debug\pesos.pdb
+C:\Users\aluno_lab2\Documents\260324\pesos\obj\Debug\pesos.csproj.AssemblyReference.cache
+C:\Users\aluno_lab2\Documents\260324\pesos\obj\Debug\pesos.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab2\Documents\260324\pesos\obj\Debug\pesos.exe
+C:\Users\aluno_lab2\Documents\260324\pesos\obj\Debug\pesos.pdb

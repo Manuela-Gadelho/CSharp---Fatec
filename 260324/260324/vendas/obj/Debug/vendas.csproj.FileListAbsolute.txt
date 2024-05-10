@@ -1,0 +1,14 @@
+C:\Users\aluno_lab4\source\repos\260324\vendas\bin\Debug\vendas.exe.config
+C:\Users\aluno_lab4\source\repos\260324\vendas\bin\Debug\vendas.exe
+C:\Users\aluno_lab4\source\repos\260324\vendas\bin\Debug\vendas.pdb
+C:\Users\aluno_lab4\source\repos\260324\vendas\obj\Debug\vendas.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\source\repos\260324\vendas\obj\Debug\vendas.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\source\repos\260324\vendas\obj\Debug\vendas.exe
+C:\Users\aluno_lab4\source\repos\260324\vendas\obj\Debug\vendas.pdb
+C:\Users\aluno_lab2\Documents\260324\vendas\bin\Debug\vendas.exe.config
+C:\Users\aluno_lab2\Documents\260324\vendas\bin\Debug\vendas.exe
+C:\Users\aluno_lab2\Documents\260324\vendas\bin\Debug\vendas.pdb
+C:\Users\aluno_lab2\Documents\260324\vendas\obj\Debug\vendas.csproj.AssemblyReference.cache
+C:\Users\aluno_lab2\Documents\260324\vendas\obj\Debug\vendas.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab2\Documents\260324\vendas\obj\Debug\vendas.exe
+C:\Users\aluno_lab2\Documents\260324\vendas\obj\Debug\vendas.pdb
