@@ -1,0 +1,6 @@
+C:\Users\aluno_lab4\Documents\Bereno\LP-Projeto1\exe1_2702\exe2_2702\bin\Debug\exe2_2702.exe.config
+C:\Users\aluno_lab4\Documents\Bereno\LP-Projeto1\exe1_2702\exe2_2702\bin\Debug\exe2_2702.exe
+C:\Users\aluno_lab4\Documents\Bereno\LP-Projeto1\exe1_2702\exe2_2702\bin\Debug\exe2_2702.pdb
+C:\Users\aluno_lab4\Documents\Bereno\LP-Projeto1\exe1_2702\exe2_2702\obj\Debug\exe2_2702.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\Documents\Bereno\LP-Projeto1\exe1_2702\exe2_2702\obj\Debug\exe2_2702.exe
+C:\Users\aluno_lab4\Documents\Bereno\LP-Projeto1\exe1_2702\exe2_2702\obj\Debug\exe2_2702.pdb
