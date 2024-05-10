@@ -1,0 +1,7 @@
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe1_050324\bin\Debug\exe1_050324.exe.config
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe1_050324\bin\Debug\exe1_050324.exe
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe1_050324\bin\Debug\exe1_050324.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe1_050324\obj\Debug\exe1_050324.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe1_050324\obj\Debug\exe1_050324.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe1_050324\obj\Debug\exe1_050324.exe
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe1_050324\obj\Debug\exe1_050324.pdb

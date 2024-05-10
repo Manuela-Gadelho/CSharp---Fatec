@@ -1,0 +1,14 @@
+C:\Users\aluno_lab4\source\repos\050324\condicionalComposta\bin\Debug\condicionalComposta.exe.config
+C:\Users\aluno_lab4\source\repos\050324\condicionalComposta\bin\Debug\condicionalComposta.exe
+C:\Users\aluno_lab4\source\repos\050324\condicionalComposta\bin\Debug\condicionalComposta.pdb
+C:\Users\aluno_lab4\source\repos\050324\condicionalComposta\obj\Debug\condicionalComposta.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\source\repos\050324\condicionalComposta\obj\Debug\condicionalComposta.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\source\repos\050324\condicionalComposta\obj\Debug\condicionalComposta.exe
+C:\Users\aluno_lab4\source\repos\050324\condicionalComposta\obj\Debug\condicionalComposta.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\050324\condicionalComposta\bin\Debug\condicionalComposta.exe.config
+C:\Users\manue\OneDrive\Área de Trabalho\050324\condicionalComposta\bin\Debug\condicionalComposta.exe
+C:\Users\manue\OneDrive\Área de Trabalho\050324\condicionalComposta\bin\Debug\condicionalComposta.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\050324\condicionalComposta\obj\Debug\condicionalComposta.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\050324\condicionalComposta\obj\Debug\condicionalComposta.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\050324\condicionalComposta\obj\Debug\condicionalComposta.exe
+C:\Users\manue\OneDrive\Área de Trabalho\050324\condicionalComposta\obj\Debug\condicionalComposta.pdb

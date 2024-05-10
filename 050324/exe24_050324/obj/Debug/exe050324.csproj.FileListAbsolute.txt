@@ -1,0 +1,14 @@
+C:\Users\aluno_lab4\source\repos\050324\exe050324\bin\Debug\exe050324.exe.config
+C:\Users\aluno_lab4\source\repos\050324\exe050324\bin\Debug\exe050324.exe
+C:\Users\aluno_lab4\source\repos\050324\exe050324\bin\Debug\exe050324.pdb
+C:\Users\aluno_lab4\source\repos\050324\exe050324\obj\Debug\exe050324.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\source\repos\050324\exe050324\obj\Debug\exe050324.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\source\repos\050324\exe050324\obj\Debug\exe050324.exe
+C:\Users\aluno_lab4\source\repos\050324\exe050324\obj\Debug\exe050324.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe24_050324\bin\Debug\exe050324.exe.config
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe24_050324\bin\Debug\exe050324.exe
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe24_050324\bin\Debug\exe050324.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe24_050324\obj\Debug\exe050324.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe24_050324\obj\Debug\exe050324.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe24_050324\obj\Debug\exe050324.exe
+C:\Users\manue\OneDrive\Área de Trabalho\050324\exe24_050324\obj\Debug\exe050324.pdb
